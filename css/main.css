@@ -14,7 +14,7 @@ h1, h2, h3, h4 {
   text-transform: uppercase;
 }
 
-figcaption {
+figcaption
   font-size: .8rem;
 
   font-style: italic;
